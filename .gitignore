@@ -1,0 +1,10 @@
+node_modules
+ngrok
+keystore
+dist
+build
+.DS_Store
+.env
+.env.staging
+.env.example
+.env.local
