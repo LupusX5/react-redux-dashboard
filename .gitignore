@@ -3,6 +3,7 @@ ngrok
 keystore
 dist
 build
+.parcel-cache
 .DS_Store
 .env
 .env.staging
